@@ -1,0 +1,7 @@
+.block_multitext>.card-body {
+    padding: 0px !important;
+}
+
+.block_multitext {
+    border: none !important;
+}
